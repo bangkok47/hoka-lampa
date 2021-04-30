@@ -1,0 +1,22 @@
+.header {
+  border-bottom: 10px solid #ebede8;
+  padding: 10px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header img {
+  width: 200px;
+  height: 100px;
+}
+
+.button__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 15px;
+}

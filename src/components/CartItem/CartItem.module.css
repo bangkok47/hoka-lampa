@@ -1,0 +1,16 @@
+.cart__item {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.cart__item__btns {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cart__item__img img {
+  width: 250px;
+  height: 220px;
+}

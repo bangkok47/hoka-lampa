@@ -1,0 +1,74 @@
+{
+  "sneakers": [
+    {
+      "id": 0,
+      "imgUrl": "https://hokaone.one/upload/resize_cache/iblock/d39/339_275_1/1110514-BWHT_1.jpg",
+      "name": "RINCON 2",
+      "sizes": [39, 41, 42],
+      "price": 120
+    },
+    {
+      "id": 1,
+      "imgUrl": "https://hokaone.one/upload/resize_cache/iblock/033/339_275_1/1115010-BWHT_1.jpg",
+      "name": "ARAHI 5",
+      "sizes": [38, 39, 42],
+      "price": 130
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://hokaone.one/upload/resize_cache/iblock/3bd/339_275_1/1110508-FWT_1.jpg",
+      "name": "CLIFTON 7",
+      "sizes": [39, 40],
+      "price": 200
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://hokaone.one/upload/resize_cache/iblock/997/339_275_1/1113528-BFCT_1.jpg",
+      "name": "MACH 4",
+      "sizes": [39],
+      "price": 145
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://hokaone.one/upload/resize_cache/iblock/f8f/339_275_1/1110510-LRWH_1.jpg",
+      "name": "CLIFTON ADGE",
+      "sizes": [39, 42],
+      "price": 99
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://hokaone.one/upload/resize_cache/iblock/d18/339_275_1/1106477-OBSF_1.jpg",
+      "name": "ELEVON 2",
+      "sizes": [39, 41, 42, 44, 45],
+      "price": 145
+    },
+    {
+      "id": 6,
+      "imgUrl": "https://hokaone.one/upload/resize_cache/iblock/68f/339_275_1/1113520-BITS_1.jpg",
+      "name": "GAVIOTA 3",
+      "sizes": [39, 41, 42, 45],
+      "price": 130
+    },
+    {
+      "id": 7,
+      "imgUrl": "https://hokaone.one/upload/resize_cache/iblock/d59/339_275_1/1113532-FTBC_1.jpg",
+      "name": "ROCKET X",
+      "sizes": [38, 39, 41, 42],
+      "price": 180
+    },
+    {
+      "id": 8,
+      "imgUrl": "https://hokaone.one/upload/resize_cache/iblock/33e/339_275_1/1122571-CVLA_1.jpg",
+      "name": "CLIFTON L SUEDE",
+      "sizes": [39, 41, 42],
+      "price": 130
+    },
+    {
+      "id": 10,
+      "imgUrl": "https://hokaone.one/upload/resize_cache/iblock/4a6/339_275_1/1113526-DBCTR_1.jpg",
+      "name": "CARBON X 2",
+      "sizes": [42],
+      "price": 180
+    }
+  ]
+}

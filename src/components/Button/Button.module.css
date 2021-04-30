@@ -1,0 +1,22 @@
+button,
+button:active,
+button:focus {
+  outline: none;
+}
+
+.button {
+  box-shadow: 0 0 12px -2px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 30px;
+  border-color: #53f3f2;
+  padding: 10px 20px;
+  min-width: 120px;
+  cursor: pointer;
+  transition: all 0.4s ease 0s;
+}
+
+.button:hover {
+  background-color: #53f3f2;
+}
