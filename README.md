@@ -1,5 +1,7 @@
 # HOKA ONEONE (Sneakers Shop for Lampa)
 
+React, Redux, React-Redux, React-router, JSON-server, axios, prop-types, redux-thunk, react-content-loader, react-icons.
+
 ## Available Scripts
 
 For start fake server, run:
